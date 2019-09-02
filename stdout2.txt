@@ -1,0 +1,345 @@
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+full_cache == 1___page cache : 
+27872|13860,14089,
+231|16902,
+198|16901,
+165|16900,
+336|24438,
+288|24437,
+240|24436,
+192|24435,
+144|24434,
+27|13832,13856,14088,
+216|13855,
+41808|13868,
+108|14091,
+162|13853,
+216|13852,13860,13861,13868,
+135|13852,
+33|16904,
+264|16903,
+102|17474,
+* if the plane is not any mark page ,we help mark the new node|channel = 3 plane = 1 lpn = 14088
+ptr_buffer_cache->ptr_current_mark_node=231 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+if(!(curr->flags&READ))
+20----接收新的request----
+inininininin
+req_check=20
+elen_num1=0,ppn1=891907,lpn=13857
+add node
+flag==0
+add node|ptr_buffer_cache->hash_Pg[logical_node_num % HASHSIZE]=13936
+full_cache == LRU___page cache : 
+13936|13857,
+27872|13860,14089,
+231|16902,
+198|16901,
+165|16900,
+336|24438,
+288|24437,
+240|24436,
+192|24435,
+144|24434,
+27|13832,13856,
+216|13855,
+41808|13868,
+108|14091,
+162|13853,
+216|13852,13860,13861,13868,
+135|13852,
+33|16904,
+264|16903,
+102|17474,
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+full_cache == 1___page cache : 
+13936|13857,
+27872|13860,14089,
+231|16902,
+198|16901,
+165|16900,
+336|24438,
+288|24437,
+240|24436,
+192|24435,
+144|24434,
+27|13832,13856,
+216|13855,
+41808|13868,
+108|14091,
+162|13853,
+216|13852,13860,13861,13868,
+135|13852,
+33|16904,
+264|16903,
+102|17474,
+* if the plane is not any mark page ,we help mark the new node|channel = 0 plane = 0 lpn = 24437
+ptr_buffer_cache->ptr_current_mark_node=27872 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+if(!(curr->flags&READ))
+21----接收新的request----
+inininininin
+req_check=21
+elen_num1=3,ppn1=891905,lpn=13855
+add node
+flag==0
+add node|ptr_buffer_cache->hash_Pg[logical_node_num % HASHSIZE]=55744
+full_cache == LRU___page cache : 
+55744|13855,
+13936|13857,
+27872|13860,14089,
+231|16902,
+198|16901,
+165|16900,
+336|24438,
+240|24436,
+192|24435,
+144|24434,
+27|13832,13856,
+216|13855,
+41808|13868,
+108|14091,
+162|13853,
+216|13852,13860,13861,13868,
+135|13852,
+33|16904,
+264|16903,
+102|17474,
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+full_cache == 1___page cache : 
+55744|13855,
+13936|13857,
+27872|13860,14089,
+231|16902,
+198|16901,
+165|16900,
+336|24438,
+240|24436,
+192|24435,
+144|24434,
+27|13832,13856,
+216|13855,
+41808|13868,
+108|14091,
+162|13853,
+216|13852,13860,13861,13868,
+135|13852,
+33|16904,
+264|16903,
+102|17474,
+* if the plane is not any mark page ,we help mark the new node|channel = 0 plane = 0 lpn = 13860
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+if(!(curr->flags&READ))
+22----接收新的request----
+inininininin
+req_check=22
+elen_num1=3,ppn1=891906,lpn=14095
+find node
+full_cache == LRU___page cache : 
+55744|13855,14095,
+13936|13857,
+27872|14089,
+231|16902,
+198|16901,
+165|16900,
+336|24438,
+240|24436,
+192|24435,
+144|24434,
+27|13832,13856,
+216|13855,
+41808|13868,
+108|14091,
+162|13853,
+216|13852,13860,13861,13868,
+135|13852,
+33|16904,
+264|16903,
+102|17474,
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+full_cache == 1___page cache : 
+55744|13855,14095,
+13936|13857,
+27872|14089,
+231|16902,
+198|16901,
+165|16900,
+336|24438,
+240|24436,
+192|24435,
+144|24434,
+27|13832,13856,
+216|13855,
+41808|13868,
+108|14091,
+162|13853,
+216|13852,13860,13861,13868,
+135|13852,
+33|16904,
+264|16903,
+102|17474,
+* if the plane is not any mark page ,we help mark the new node|channel = 0 plane = 3 lpn = 13852
+ptr_buffer_cache->ptr_current_mark_node=13936 == ptr_buffer_cache->ptr_head||ptr_buffer_cache->ptr_current_mark_node == ptr_buffer_cache->ptr_head->next
+if(!(curr->flags&READ))
+ytc94u 22 total_live_page_cp_count2 = 0 W resp time = -1004675848886664778964593726343195480851224937089128427926468284230389300719507591100787371103960466287841199837681426153887425689876355893046765732961229979026254183622279426776341544779759990410444368620981829178583203096144397353172404257255142523208347598555966579116143259333943583967473148312420352.000000 R resp time = 2.799453 resp time = -959008764846361786016488557106009349282932954773771612925841882699283048360563211611375988209332492494000789352110811202905033030776381417642517108436246282503817150994154554594076091256169188931896053264363664734672351283160097959420828014195161172562126323988962920836594402567384479601906094736146432.000000 				 	striping count = 0 striping page = 0
+ total_childcompTimeDiff = 0.000000ytc94u w_multiple = 0.000000 ,cache_size = 24
+ ytc94u total_live_page_cp_count2 = 0,total_gc_count = 0
+ytc94u write hit count = 11 write miss count = 58 write hit rate = 0.159420
+ytc94u read hit count = 1 read miss count = 5 read hit rate = 0.166667
+ytc94u kick_read_intensive_page_count = 34 kick_write_intensive_page_count = 0
+ytc94u handle_write_count_in_activity_elem = 34
+ytc94u write request average serve time = -1004675848886664778964593726343195480851224937089128427926468284230389300719507591100787371103960466287841199837681426153887425689876355893046765732961229979026254183622279426776341544779759990410444368620981829178583203096144397353172404257255142523208347598555966579116143259333943583967473148312420352.000000 
+ytc94u read request average serve time = 2.799453 
+ytc94u write and read request average serve time = -959008764846361786016488557106009349282932954773771612925841882699283048360563211611375988209332492494000789352110811202905033030776381417642517108436246282503817150994154554594076091256169188931896053264363664734672351283160097959420828014195161172562126323988962920836594402567384479601906094736146432.000000 
+ytc94u striping_count = 0,striping_page= 0
+ytc94u total_wait_striping_page_count == 0
+ytc94u fill_block_count == 0s->sum=4.365597
+response time: n=22 average=0.198436 std. deviation=0.219975
+osnet@osnet-D820MT-D820SF-BM3CE:~/disksim_blas_lpb$ 
